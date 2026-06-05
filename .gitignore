@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Additional file types
+.idea/
+results/*.png
+*.tmp
+*.temp
+*.bak
